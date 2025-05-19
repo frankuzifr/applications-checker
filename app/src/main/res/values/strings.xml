@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Applications checker</string>
+    <string name="empty_list">Installed applications not found</string>
+    <string name="app_bar_title">Applications</string>
+    <string name="application_name"><b>Application name:</b> %s</string>
+    <string name="application_version"><b>Application version:</b> %s</string>
+    <string name="application_package_name"><b>Package name:</b> %s</string>
+    <string name="application_checksum"><b>Checksum (SHA-256):</b> %s</string>
+    <string name="open">Open</string>
+</resources>

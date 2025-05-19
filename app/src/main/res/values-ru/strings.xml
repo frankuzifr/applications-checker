@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Проверка приложений</string>
+    <string name="empty_list">Установленных приложений не найдено</string>
+    <string name="app_bar_title">Приложения</string>
+    <string name="application_name">Имя приложения: %s</string>
+    <string name="application_version">Версия приложения: %s</string>
+    <string name="application_package_name">Имя пакета: %s</string>
+    <string name="application_checksum">Чек-сумма (SHA-256): %s</string>
+    <string name="open">Открыть</string>
+</resources>
